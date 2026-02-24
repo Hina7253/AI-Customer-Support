@@ -1,1 +1,1 @@
-AI Ch
+AI Chatbot
