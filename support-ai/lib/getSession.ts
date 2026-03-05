@@ -1,5 +1,5 @@
 import { scalekit } from "@/lib/scalekit"
-import { cookies } from "next/headers"
+
 
 export async function getSession() {
 
